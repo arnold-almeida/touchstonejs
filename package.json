@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "classnames": "^1.0.0",
+    "crypto-browserify": "^3.9.13",
     "react": "^0.12.2",
     "react-tappable": "^0.2.3",
     "underscore": "^1.7.0"
